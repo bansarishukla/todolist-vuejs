@@ -1,0 +1,38 @@
+
+.modal {
+  display: block;
+  position: relative;
+  background: pink;
+  height: 500px;
+  padding: 10px 10px;
+  margin-top: 200px;
+}
+.back-style {
+  width:70%;
+  margin: 5px;
+  background: aliceblue;
+  border-radius: 4px;
+  margin: 40px 200px 20px 180px;
+  height: 280px;
+  overflow-y: auto;
+}
+
+.todo-input {
+  width: 100%;
+  display: flex;
+  margin: 20px;
+  padding: 20px;
+}
+.size {
+  width: 100%
+}
+button {
+  margin-left: auto;
+}
+.header {
+  display: flex;
+  position: relative;
+  background: white;
+  padding: 20px 20px;
+}
+
